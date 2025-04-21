@@ -14,7 +14,7 @@
             <div class="header">
                 <div class="logo">
                     <i class="fas fa-utensils"></i>
-                    <span>FoodManager</span>
+                    <span>U-Food</span>
                 </div>
             </div>
             
